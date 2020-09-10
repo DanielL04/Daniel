@@ -1,0 +1,10 @@
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\bin\Debug\chapter 2 examples.exe.config
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\bin\Debug\chapter 2 examples.exe
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\bin\Debug\chapter 2 examples.pdb
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\obj\Debug\chapter 2 examples.csprojAssemblyReference.cache
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\obj\Debug\chapter_2_examples.Form1.resources
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\obj\Debug\chapter_2_examples.Properties.Resources.resources
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\obj\Debug\chapter 2 examples.csproj.GenerateResource.cache
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\obj\Debug\chapter 2 examples.csproj.CoreCompileInputs.cache
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\obj\Debug\chapter 2 examples.exe
+C:\Users\daniel.lehman\Desktop\projects\chapter 2 examples\chapter 2 examples\obj\Debug\chapter 2 examples.pdb
